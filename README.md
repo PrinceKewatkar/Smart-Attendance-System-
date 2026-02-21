@@ -46,4 +46,4 @@ To set up and run the Smart Attendance System on your local machine, follow thes
 #### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/MythPrince/Smart-Attendance-System.git 
+[git clone https://github.com/MythPrince/Smart-Attendance-System.git ](https://github.com/PrinceKewatkar/Smart-Attendance-System-.git)
